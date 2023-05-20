@@ -6,5 +6,5 @@ A CMD Based Kenshi Mod Handler Designed For Non Steam/Offline Versions of Kenshi
 - Supports Latest Release
 
 ![image](https://github.com/injectionmethod/KenshiModFormatterLite/assets/80434330/19ab6520-6b2f-4c11-ab32-ab5dd5f9a956)
-![image](https://github.com/injectionmethod/KenshiModFormatterLite/assets/80434330/7f88a46b-a2aa-4ed4-8c6f-4d5315a73249)
+![image](https://github.com/injectionmethod/KenshiModFormatterLite/assets/80434330/aa2fd3ad-8fb4-43f2-8dde-726451f346d0)
 ![image](https://github.com/injectionmethod/KenshiModFormatterLite/assets/80434330/befe5d06-889d-49c8-a324-1dadcd0175d5)
