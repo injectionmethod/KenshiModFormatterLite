@@ -34,22 +34,21 @@ Module Module1
                 Dim modFolderPath As String = Path.Combine(outputFolderPath, modFolderName)
                 Console.WriteLine("Installing Mod: " + modFolderName)
                 Directory.CreateDirectory(modFolderPath)
-                Console.WriteLine("Mod Folder Created...")
                 For Each entry As ZipArchiveEntry In archive.Entries
                     Dim entryName As String = entry.FullName.Replace("/", "\")
                     If entryName.StartsWith(firstFolder) AndAlso Not entryName.Equals(firstFolder) Then
                         Dim relativePath As String = entryName.Substring(firstFolder.Length + 1)
                         Dim outputPath As String = Path.Combine(modFolderPath, relativePath)
-
+                        Console.WriteLine("Extracted File: " + entry.Name)
                         If entryName.EndsWith("\") Then
-                            Directory.CreateDirectory(outputPath) : Console.WriteLine("Created Folder @ " + outputFolderPath)
-                            Console.WriteLine("Created Directory: " + entry.Name)
+                            If outputFolderPath.Length > 0 Then
+                                Directory.CreateDirectory(outputPath) : Console.WriteLine("Created Folder @ " + outputFolderPath)
+                            End If
                         Else
                             entry.ExtractToFile(outputPath, True)
                             Console.WriteLine("Created File: " + entry.Name)
                         End If
                     End If
-                    Console.WriteLine("Extracted File: " + entry.Name)
                 Next
                 Console.WriteLine("Installed Mod: " + modFolderName + vbNewLine)
             End If
