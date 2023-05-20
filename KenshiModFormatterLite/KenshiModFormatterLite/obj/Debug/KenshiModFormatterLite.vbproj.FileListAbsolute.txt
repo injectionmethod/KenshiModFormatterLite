@@ -1,0 +1,12 @@
+C:\Users\Fraser\source\repos\KenshiModFormatterLite\KenshiModFormatterLite\bin\Debug\KenshiModFormatterLite.exe.config
+C:\Users\Fraser\source\repos\KenshiModFormatterLite\KenshiModFormatterLite\bin\Debug\KenshiModFormatterLite.exe
+C:\Users\Fraser\source\repos\KenshiModFormatterLite\KenshiModFormatterLite\bin\Debug\KenshiModFormatterLite.pdb
+C:\Users\Fraser\source\repos\KenshiModFormatterLite\KenshiModFormatterLite\bin\Debug\KenshiModFormatterLite.xml
+C:\Users\Fraser\source\repos\KenshiModFormatterLite\KenshiModFormatterLite\obj\Debug\KenshiModFormatterLite.vbproj.AssemblyReference.cache
+C:\Users\Fraser\source\repos\KenshiModFormatterLite\KenshiModFormatterLite\obj\Debug\KenshiModFormatterLite.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Fraser\source\repos\KenshiModFormatterLite\KenshiModFormatterLite\obj\Debug\KenshiModFormatterLite.Resources.resources
+C:\Users\Fraser\source\repos\KenshiModFormatterLite\KenshiModFormatterLite\obj\Debug\KenshiModFormatterLite.vbproj.GenerateResource.cache
+C:\Users\Fraser\source\repos\KenshiModFormatterLite\KenshiModFormatterLite\obj\Debug\KenshiModFormatterLite.vbproj.CoreCompileInputs.cache
+C:\Users\Fraser\source\repos\KenshiModFormatterLite\KenshiModFormatterLite\obj\Debug\KenshiModFormatterLite.exe
+C:\Users\Fraser\source\repos\KenshiModFormatterLite\KenshiModFormatterLite\obj\Debug\KenshiModFormatterLite.xml
+C:\Users\Fraser\source\repos\KenshiModFormatterLite\KenshiModFormatterLite\obj\Debug\KenshiModFormatterLite.pdb
