@@ -46,7 +46,6 @@ Module Module1
                             End If
                         Else
                             entry.ExtractToFile(outputPath, True)
-                            Console.WriteLine("Created File: " + entry.Name)
                         End If
                     End If
                 Next
