@@ -1,4 +1,7 @@
 # KenshiModFormatterLite
+
+Latest Release Now on Nexus Mods: https://www.nexusmods.com/kenshi/mods/1228
+
 A CMD Based Kenshi Mod Handler Designed For Non Steam/Offline Versions of Kenshi
 - Make Sure To Download Files From Either SteamCMD or Preferably Any Steam Downloader Such As: http://steamworkshop.download/
 - Format Multiple Mods At Once By Splitting The Locations With ,
